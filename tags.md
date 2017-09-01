@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: Tags
+title: تگ‌ها
 permalink: /tags/
 robots: noindex
 ---
