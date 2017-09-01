@@ -9,7 +9,7 @@ layout: default
       &#8226; <span class="post-meta__tags">تگ {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a> {% endfor %}</span>
       {% endif %}
       {% if page.categories.size > 0 %}
-      &#8226; <span class="post-meta__categories">دسته‌بندی {% for categorie in page.categories %}<a href="{{ site.baseurl }}/categories/#{{categorie }}">{{ categorie }}</a> {% endfor %}</span>
+      &#8226; <span class="post-meta__tags">دسته‌بندی {% for categorie in page.categories %}<a href="{{ site.baseurl }}/categories/#{{categorie }}">{{ categorie }}</a> {% endfor %}</span>
       {% endif %}
     </div>
     <h1 class="post-title">{{ page.title }}</h1>
