@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: دسته‌بندی‌ها
+title: دسته‌ها
 permalink: /categories/
 robots: noindex
 ---
