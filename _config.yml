@@ -1,6 +1,6 @@
 # Site settings
 title: 2D Vision
-description: 'نقاشی دیجیتال, انیمیشن, گرافیک'
+description: 'نقاشی دیجیتال، انیمیشن، گرافیک'
 url: 'http://2dvision.com'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -8,7 +8,7 @@ baseurl: '/'
 
 author:
   name: '2DVision'
-  email: ''
+  email:
   twitter_username: _2dvision
   github_username:  2dvision
   instagram_username:  _2dvision
