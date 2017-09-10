@@ -3,6 +3,7 @@ title: 2D Vision
 description: 'نقاشی دیجیتال، انیمیشن، گرافیک'
 url: 'http://2dvision.com'
 baseurl: '/'
+timezone: Asia/Tehran
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
