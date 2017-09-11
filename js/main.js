@@ -6,6 +6,7 @@ sitemap:
 
 $(document).ready(function () {
   $('a.blog-button').click(function (e) {
+    $('.content-wrapper__inner').css('display', 'block')
     if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
     currentWidth = $('.panel-cover').width()
     if (currentWidth < 960) {
@@ -19,10 +20,12 @@ $(document).ready(function () {
 
   if (window.location.hash && window.location.hash == '#blog') {
     $('.panel-cover').addClass('panel-cover--collapsed')
+    $('.content-wrapper__inner').css('display', 'block')
   }
 
   if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
+    $('.content-wrapper__inner').css('display', 'block')
   }
 
   $('.btn-mobile-menu').click(function () {
