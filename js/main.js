@@ -39,3 +39,24 @@ $(document).ready(function () {
   })
 
 })
+
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+    acc[i].onclick = function(){
+        this.classList.toggle("active");
+
+        var accordion_panel = this.nextElementSibling;
+        if (accordion_panel.style.display === "block") {
+            accordion_panel.style.display = "none";
+        } else {
+            accordion_panel.style.display = "block";
+        }
+        if (accordion_panel.style.maxHeight){
+          accordion_panel.style.maxHeight = null;
+        } else {
+          accordion_panel.style.maxHeight = accordion_panel.scrollHeight + "px";
+        }
+    }
+}
