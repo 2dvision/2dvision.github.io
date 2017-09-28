@@ -17,10 +17,10 @@ robots: noindex
         <div class="post-list__meta">
             <time datetime="{{ post.date | date: "%Y/%m/%d" }}" class="post-list__meta--date date">{{ post.date | date: "%Y/%m/%d" }}</time>
             {% if post.categories.size > 0 %}
-            &#8226; <span class="post-meta__tags">دسته {% for categorie in post.categories %}<a href="{{ site.baseurl }}/categories/#{{categorie }}">{{categorie }}</a> {% endfor %}</span>
+            &#8226; <span class="post-meta__tags">دسته {% for categorie in post.categories %}<a href="{{ site.baseurl }}/categories/#{{categorie }}">{{categorie }}</a>&#1548; {% endfor %}</span>
             {% endif %}
           {% if post.tags.size > 0 %}
-            &#8226; <span class="post-meta__tags">تگ {% for tag in post.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a> {% endfor %}</span>
+            &#8226; <span class="post-meta__tags">تگ {% for tag in post.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>&#1548; {% endfor %}</span>
             {% endif %}
         </div>
         <hr class="post-list__divider">
