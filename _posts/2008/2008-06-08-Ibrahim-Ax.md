@@ -1,7 +1,7 @@
 ---
 title: تبر ابراهیم
 date: 1387-03-19
-categories: [وبلاگ]
+categories: [نوشتار]
 tags: [هایکو]
 ---
 

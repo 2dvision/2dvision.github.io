@@ -1,7 +1,7 @@
 ---
 title: همه هستی
 date: 1386-08-22
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

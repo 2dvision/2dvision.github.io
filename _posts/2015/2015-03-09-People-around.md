@@ -1,7 +1,7 @@
 ---
 title: آدم‌های اطراف
 date: 1393-12-18
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

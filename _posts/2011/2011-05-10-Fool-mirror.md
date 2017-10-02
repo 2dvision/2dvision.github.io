@@ -1,7 +1,7 @@
 ---
 title: احمق در آینه
 date: 1390-02-20
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

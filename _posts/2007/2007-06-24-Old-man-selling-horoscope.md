@@ -1,7 +1,7 @@
 ---
 title: پیرمرد فال فروش
 date: 1386-04-03
-categories: [وبلاگ]
+categories: [نوشتار]
 tags: [هایکو]
 ---
 

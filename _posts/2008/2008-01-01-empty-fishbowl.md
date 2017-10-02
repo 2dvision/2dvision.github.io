@@ -1,7 +1,7 @@
 ---
 title: تنگ خالی ماهی
 date: 1386-10-11
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

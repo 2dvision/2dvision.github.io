@@ -1,7 +1,7 @@
 ---
 title: بدبینی
 date: 1387-10-25
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

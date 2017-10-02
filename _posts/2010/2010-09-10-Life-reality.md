@@ -1,7 +1,7 @@
 ---
 title: زندگی واقعیت است
 date: 1389-06-19
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

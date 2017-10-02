@@ -1,7 +1,7 @@
 ---
 title: موسیقی و خواب
 date: 1391-12-27
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

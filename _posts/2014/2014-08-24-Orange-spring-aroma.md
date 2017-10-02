@@ -1,7 +1,7 @@
 ---
 title: عطر بهار نارنج
 date: 1393-06-02
-categories: [وبلاگ]
+categories: [نوشتار]
 tags: [هایکو]
 ---
 

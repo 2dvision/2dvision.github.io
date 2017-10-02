@@ -1,7 +1,7 @@
 ---
 title: صدای شیونی
 date: 1386-04-28
-categories: [وبلاگ]
+categories: [نوشتار]
 tags: [هایکو]
 ---
 

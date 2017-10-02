@@ -1,7 +1,7 @@
 ---
 title: مهتاب
 date: 1386-04-27
-categories: [وبلاگ]
+categories: [نوشتار]
 tags: [هایکو]
 ---
 

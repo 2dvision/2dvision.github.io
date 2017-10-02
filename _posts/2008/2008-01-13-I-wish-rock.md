@@ -1,7 +1,7 @@
 ---
 title: ای کاش سنگ بودم
 date: 1386-10-23
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

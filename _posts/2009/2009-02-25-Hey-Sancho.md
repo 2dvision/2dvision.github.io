@@ -1,7 +1,7 @@
 ---
 title: هی سانچو
 date: 1387-12-07
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

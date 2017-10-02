@@ -1,7 +1,7 @@
 ---
 title: دوباره و دوباره
 date: 1389-03-15
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

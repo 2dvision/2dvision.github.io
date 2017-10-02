@@ -1,7 +1,7 @@
 ---
 title: فرشته مرگ
 date: 1386-10-04
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

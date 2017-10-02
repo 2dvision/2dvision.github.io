@@ -1,7 +1,7 @@
 ---
 title: حرف‌های نزده
 date: 1386-09-06
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

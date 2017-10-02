@@ -1,7 +1,7 @@
 ---
 title: وین دل
 date: 1389-03-07
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: زنده باد ژنرال
 date: 1386-10-09
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: تلاطم دل
 date: 1387-05-25
-categories: [وبلاگ]
+categories: [نوشتار]
 tags:
 ---
 
