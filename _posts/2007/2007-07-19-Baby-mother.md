@@ -1,7 +1,7 @@
 ---
 title: کودک و مادر
 date: 1386-04-28
-categories: [نوشتار]
+categories: [شعر]
 tags: [هایکو]
 ---
 

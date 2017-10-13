@@ -1,7 +1,7 @@
 ---
 title: عطر شیشه‌پاکن
 date: 1393-07-02
-categories: [نوشتار]
+categories: [شعر]
 tags: [هایکو]
 ---
 

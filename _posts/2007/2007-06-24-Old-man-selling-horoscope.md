@@ -1,7 +1,7 @@
 ---
 title: پیرمرد فال فروش
 date: 1386-04-03
-categories: [نوشتار]
+categories: [شعر]
 tags: [هایکو]
 ---
 

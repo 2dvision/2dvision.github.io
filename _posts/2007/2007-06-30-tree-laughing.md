@@ -1,7 +1,7 @@
 ---
 title: درخت ریسه می‌رود
 date: 1386-04-09
-categories: [نوشتار]
+categories: [شعر]
 tags: [هایکو]
 ---
 
