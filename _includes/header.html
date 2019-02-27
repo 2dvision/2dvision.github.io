@@ -21,7 +21,7 @@
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
               <li class="navigation__item"><a href="{{ site.baseurl }}/#blog" title="link to {{ site.title }} blog" class="blog-button">وبلاگ</a></li>
-              <li class="navigation__item"><a href="{{ site.baseurl }}/categories" title="link to {{ site.title }} categories" class="blog-button">دسته‌ها</a></li>
+              <!-- <li class="navigation__item"><a href="{{ site.baseurl }}/categories" title="link to {{ site.title }} categories" class="blog-button">دسته‌ها</a></li> -->
               <li class="navigation__item"><a href="{{ site.baseurl }}/about-contact.html" title="link to {{ site.title }} about contact" class="blog-button">درباره و تماس</a></li>
             </ul>
           </nav>
@@ -59,7 +59,7 @@
               </li>
             {% endif %}
 
-	    {% if site.author.aparat_username %}
+	          {% if site.author.aparat_username %}
               <!-- Aparat -->
               <li class="navigation__item">
                 <a href="http://www.aparat.com/{{ site.author.aparat_username }}" title="{{ site.author.aparat_username }} on Aparat" target="_blank">
@@ -69,7 +69,7 @@
               </li>
             {% endif %}
 
-	    {% if site.author.instagram_username %}
+	          {% if site.author.instagram_username %}
               <!-- Instagram -->
               <li class="navigation__item">
                 <a href="https://www.instagram.com/{{ site.author.instagram_username }}" title="{{ site.author.instagram_username }} on Instagram" target="_blank">
