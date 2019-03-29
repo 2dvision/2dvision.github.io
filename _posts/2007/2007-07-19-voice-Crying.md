@@ -1,8 +1,10 @@
 ---
 title: صدای شیونی
 date: 1386-04-28
-categories: [شعر]
-tags: [هایکو]
+categories:
+    - شعر
+tags:
+    - هایکو
 ---
 
 صدای شیونی!  

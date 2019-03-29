@@ -1,8 +1,10 @@
 ---
 title: کودک و مادر
 date: 1386-04-28
-categories: [شعر]
-tags: [هایکو]
+categories:
+    - شعر
+tags:
+    - هایکو
 ---
 
 کودکی،  

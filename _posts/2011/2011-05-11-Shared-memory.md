@@ -1,7 +1,8 @@
 ---
 title: خاطرهٔ مشترک
 date: 1390-02-21
-categories: [نوشتار]
+categories:
+    - نوشتار
 tags:
 ---
 

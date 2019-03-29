@@ -1,7 +1,8 @@
 ---
 title: وین دل
 date: 1389-03-07
-categories: [نوشتار]
+categories:
+    - نوشتار
 tags:
 ---
 

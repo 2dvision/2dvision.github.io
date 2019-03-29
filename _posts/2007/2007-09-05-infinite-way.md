@@ -1,7 +1,8 @@
 ---
 title: این راه بی‌نهایت
 date: 1386-06-14
-categories: [نوشتار]
+categories:
+    - نوشتار
 tags:
 ---
 

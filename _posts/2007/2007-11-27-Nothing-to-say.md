@@ -1,7 +1,8 @@
 ---
 title: حرف‌های نزده
 date: 1386-09-06
-categories: [نوشتار]
+categories:
+    - نوشتار
 tags:
 ---
 

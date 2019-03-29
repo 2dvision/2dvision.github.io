@@ -1,7 +1,8 @@
 ---
 title: آدم‌های صبح
 date: 1393-06-09
-categories: [نوشتار]
+categories:
+    - نوشتار
 tags:
 ---
 

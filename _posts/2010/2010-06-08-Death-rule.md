@@ -1,7 +1,8 @@
 ---
 title: مرگ حق است
 date: 1389-03-18
-categories: [نوشتار]
+categories:
+    - نوشتار
 tags:
 ---
 

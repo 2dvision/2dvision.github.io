@@ -1,7 +1,8 @@
 ---
 title: دنیای سایه‌ها
 date: 1387-04-04
-categories: [نوشتار]
+categories:
+    - نوشتار
 tags:
 ---
 

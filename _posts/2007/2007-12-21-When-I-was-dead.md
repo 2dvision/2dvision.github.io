@@ -1,7 +1,8 @@
 ---
 title: هنگامی که مرده بودم
 date: 1386-09-30
-categories: [نوشتار]
+categories:
+    - نوشتار
 tags:
 ---
 

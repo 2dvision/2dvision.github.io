@@ -1,7 +1,8 @@
 ---
 title: زندگی واقعیت است
 date: 1389-06-19
-categories: [نوشتار]
+categories:
+    - نوشتار
 tags:
 ---
 
